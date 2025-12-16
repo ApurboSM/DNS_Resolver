@@ -1,4 +1,4 @@
-# Task 24: DNS Resolver with Recursive Resolution
+# DNS Resolver with Recursive Resolution
 
 ## Overview
 Advanced DNS resolver implementing the binary DNS protocol (RFC 1035) with recursive resolution, caching, and CNAME handling. This is a low-level implementation demonstrating binary protocol design, bit-field manipulation, and domain name compression.
